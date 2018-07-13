@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "925147923320",
+    "firebase_url": "https://ostrovnikolai-cdaa2.firebaseio.com",
+    "project_id": "ostrovnikolai-cdaa2",
+    "storage_bucket": "ostrovnikolai-cdaa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925147923320:android:9b537403cc3f9ff9",
+        "android_client_info": {
+          "package_name": "com.example.user.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925147923320-khipml1b0m8cb2shb15cm8n0ma8bqtu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.myapplication",
+            "certificate_hash": "d5643bd3e9d9d1395c738f6ccde2c53c72be1c8b"
+          }
+        },
+        {
+          "client_id": "925147923320-dec6a71jn62d68bemvv89tgv97pb6a1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4l7XMR2pSrccszb8f79hgtVfO1cyWKGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925147923320-dec6a71jn62d68bemvv89tgv97pb6a1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
